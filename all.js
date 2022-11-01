@@ -73,9 +73,7 @@ function init(){
 
 init();
 
-data.forEach(function(item){
-    item.area == '高雄';
-})
+
 filter.addEventListener("change",function(e){
     let str = "";
     let count =0;
