@@ -177,4 +177,5 @@ btn.addEventListener("click",function(e){
     ticketRange.value = '';
     ticketPrice.value = '';
     ticketDes.value = '';
+    init();
 })
